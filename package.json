@@ -1,0 +1,18 @@
+{
+  "name": "email_sender",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akash Sahani\\",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "email_sender": "file:",
+    "express": "^4.21.2",
+    "nodemailer": "^6.10.0",
+    "nodemon": "^3.1.9",
+    "start": "^5.1.0"
+  }
+}
