@@ -13,7 +13,7 @@
         from:'sahaniaakash563@gmail.com',
         to:'2203051050834@paruluniversity.ac.in',
         subject:'Email Using NODE JS',
-        text:'This mail is sent suing Node js'
+        text:'This mail is sent using Node js'
     }
     transport.sendMail(messageOb,(err,info)=>{
         if(err){
